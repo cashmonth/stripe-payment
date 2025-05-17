@@ -16,7 +16,7 @@ Install stripe-payment with npm
     
 ## Support
 
-My Discord: experimentally (id: 418507608274501644)
+My Discord: .moneydays
 
 
 ## Usage Button Checkout
@@ -30,5 +30,5 @@ You can also add a class with CSS styling to the button.
 
 ## Authors
 
-- [@zh](https://www.github.com/zhexperimentally/)
+- [@months](https://www.github.com/cashmonth/)
 
